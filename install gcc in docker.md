@@ -9,6 +9,7 @@ docker search gcc
 ```
 
 to search for gcc in docker hub:
+
 ![alt text](/figures/docker_search_gcc.png)
 
 ## 2 pull
@@ -18,9 +19,11 @@ run:
 ```
 docker pull gcc
 ```
+
 ![alt text](/figures/docker_pull_gcc.png)
 you can see the images by:
 ```
 docker images
 ```
+
 ![alt text](/figures/docker_images_gcc.png)

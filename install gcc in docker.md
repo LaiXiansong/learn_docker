@@ -21,6 +21,7 @@ docker pull gcc
 ```
 
 ![alt text](/figures/docker_pull_gcc.png)
+
 you can see the images by:
 ```
 docker images
